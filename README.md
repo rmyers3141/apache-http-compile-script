@@ -1,4 +1,6 @@
 # apache-http-build-dev
+A script to compile and install Apache HTTP Server 2.4 from source.
+
 ## Overview
 A `bash` script `apache-httpd-install-el6-el7.sh` is provided to compile and install Apache HTTP Server v2.4.x, (hereafter referred to as *Apache*) from source code.
 
